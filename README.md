@@ -4,7 +4,7 @@
 
 ### Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=docker,nginx,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,py,bash)](https://skillicons.dev)
 
 ### CI/CD:
 [![My Skills](https://skillicons.dev/icons?i=github,gitlab,bitbucket,jenkins,githubactions)](https://skillicons.dev)
